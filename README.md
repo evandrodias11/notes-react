@@ -22,4 +22,4 @@ Acesse http://localhost:5173 para visualizar a aplicação.
 
 ## Projeto online
 
-Disponível <a href="">aqui</a>
+Disponível <a href="https://appnotes-react.netlify.app/">aqui</a>
