@@ -1,4 +1,4 @@
-# NLW Expert (React)
+# Notes - NLW Expert (React)
 
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
 
@@ -19,3 +19,7 @@ npm run dev
 ```
 
 Acesse http://localhost:5173 para visualizar a aplicação.
+
+## Projeto online
+
+Disponível <a href="">aqui</a>
